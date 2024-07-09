@@ -1,0 +1,1 @@
+In your Reloaded Mods folder create a folder called p4au.palette.BLMColorPack and then extract the .7z into this folder and enable the mod in Reloaded. For more information about setting up Reloaded check out The Beginner's Modding Guide. 

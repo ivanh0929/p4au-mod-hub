@@ -1,0 +1,47 @@
+{
+  "ModId": "p4au.palette.BLMColorPack",
+  "ModName": "BLM Color Pack over Color 20",
+  "ModAuthor": "Tankiaro",
+  "ModVersion": "1.0.0",
+  "ModDescription": "This mod gives the whole cast a BLM color similar to the Black Lives Matter Costume Pack by Shoyoumomo over their Color 20.",
+  "ModDll": "",
+  "ModIcon": "P4AU BLM Mod.png",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "p4au.palette.BLMColorPack.ReleaseMetadata.json",
+  "PluginData": {
+    "GitHubDependencies": {
+      "IdToConfigMap": {
+        "reloaded.universal.redirector": {
+          "Config": {
+            "UserName": "Reloaded-Project",
+            "RepositoryName": "Reloaded.Universal.Redirector",
+            "UseReleaseTag": false,
+            "AssetFileName": ""
+          },
+          "ReleaseMetadataName": "Reloaded.Universal.Redirector.ReleaseMetadata.json"
+        },
+        "reloaded.sharedlib.hooks": {
+          "Config": {
+            "UserName": "Reloaded.SharedLib.Hooks.ReloadedII",
+            "RepositoryName": "Sewer56",
+            "UseReleaseTag": true,
+            "AssetFileName": "reloaded.sharedlib.hooks.zip"
+          },
+          "ReleaseMetadataName": "Sewer56.Update.ReleaseMetadata.json"
+        }
+      }
+    }
+  },
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "reloaded.universal.redirector"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "p4u2.exe"
+  ]
+}
